@@ -99,6 +99,8 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
+
+#media section
 #media from google cloud storage
 DEFAULT_FILE_STORAGE = 'serve_media_from_gcs.gcloud_custom.GoogleCloudMediaFileStorage'
 GOOGLE_PROJECT_ID = '<YOUR-GOOGLE-PROJECT-ID>'
