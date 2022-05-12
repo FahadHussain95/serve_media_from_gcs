@@ -4,7 +4,7 @@ This project is to serve your files from Google Cloud Storage.
 
 *Assumptions:
 You have already created and given correct permissions to your GCS on Google Console.
-You have create a service account on Google Console
+You have create a service account on Google Console and made your GCS set to public.
 This project is just for the Django part of serving the media files from the GCS. 
 
 1) Clone the repository and make a virtual environment on your local
